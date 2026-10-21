@@ -51,5 +51,5 @@ updated.
 
 ## Contact
 
-Open an issue at https://github.com/Keatonmx/tinbox or email the address shown on the App Store
+Open an issue at https://github.com/Keatonmx/tinbox-support or email the address shown on the support page
 listing.
