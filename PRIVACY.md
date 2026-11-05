@@ -1,6 +1,6 @@
 # Tinbox Privacy Policy
 
-_Last updated: 23 August 2026_
+_Last updated: 5 November 2026_
 
 Tinbox is a Game Boy / Game Boy Advance emulator for iPhone by Redfern's Outpost.
 
@@ -27,8 +27,12 @@ Tinbox only uses the network when you turn on or use one of these features:
    this off at any time; it is never used for anything else.
 2. **RetroAchievements** (optional sign-in). If you sign in, your username and password are sent
    directly and only to `retroachievements.org` to obtain a session token, which is stored on your
-   device so you stay signed in. Tinbox then requests achievement lists for the games you play.
-   Signing out deletes the token. RetroAchievements' own privacy policy applies to their service.
+   device so you stay signed in. While you are signed in, Tinbox then sends gameplay progress to
+   `retroachievements.org` so achievements can unlock on your account: a hash (fingerprint) of each
+   game you open, which achievements you earn and when, and a short "now playing" status every
+   couple of minutes while a game is running. No game files, saves or screenshots are sent, and
+   nothing is sent while you are signed out. Signing out deletes the token and stops all of this.
+   RetroAchievements' own privacy policy applies to their service.
 
 No other servers are contacted. Tinbox never uploads your games or saves.
 
