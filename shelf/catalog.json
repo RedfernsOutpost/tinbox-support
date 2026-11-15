@@ -55,14 +55,14 @@
       "licence": "zlib",
       "licenceURL": "https://github.com/pinobatch/libbet/blob/master/LICENSE",
       "sourceURL": "https://github.com/pinobatch/libbet",
-      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/libbet.gb",
+      "downloadURL": "https://github.com/pinobatch/libbet/releases/download/v0.08/libbet.gb",
       "cover": "covers/libbet.png",
       "licenceFile": "LICENSES/libbet.txt",
       "fileName": "Libbet and the Magic Floor.gb",
       "tags": [
         "puzzle"
       ],
-      "sha256": "079d161bf2bff4f3baec01339b4f6f02ff6f966c69456885a165b97aac11fa12",
+      "sha256": "3607412031c8287cf878299ce96e581e85b852dde703806343b95576fa3ff1a9",
       "size": 32768
     },
     {
@@ -169,6 +169,50 @@
       "size": 32768
     },
     {
+      "id": "big2small",
+      "title": "Big2Small",
+      "author": "Matthew D. Steele",
+      "system": "gbc",
+      "year": 2021,
+      "blurb": "A goofy block-pushing puzzler: an elephant, a goat and a mouse of three sizes cross dozens of rooms, and each animal can pass obstacles the others cannot. Colour on Game Boy Color.",
+      "licence": "GPL-3.0",
+      "licenceURL": "https://github.com/mdsteele/big2small/blob/master/LICENSE",
+      "sourceURL": "https://github.com/mdsteele/big2small",
+      "downloadURL": "https://github.com/mdsteele/big2small/releases/download/v1.0.0/big2small.gb",
+      "fileName": "Big2Small.gb",
+      "tags": [
+        "puzzle",
+        "sokoban",
+        "colour"
+      ],
+      "cover": "covers/big2small.png",
+      "licenceFile": "LICENSES/big2small.txt",
+      "sha256": "59c096333f93c12c8eb25a5fcffa2be15001abcd5d20b9a82c2bc2dae7e625b2",
+      "size": 65536
+    },
+    {
+      "id": "dawn-will-come",
+      "title": "Dawn Will Come",
+      "author": "eishiya, H0lyhandgrenade and Kezia Salmon",
+      "system": "gbc",
+      "year": 2021,
+      "blurb": "An atmospheric platformer about a small spirit guiding a lost traveller through a dark forest before sunrise. Built in GB Studio with custom engine work, shortlisted at GB Compo 21.",
+      "licence": "MIT · CC BY 4.0",
+      "licenceURL": "https://github.com/eishiya/DawnWillCome#licenses",
+      "sourceURL": "https://github.com/eishiya/DawnWillCome",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/dawn-will-come.gbc",
+      "fileName": "Dawn Will Come.gbc",
+      "tags": [
+        "platformer",
+        "atmospheric",
+        "colour"
+      ],
+      "cover": "covers/dawn-will-come.png",
+      "licenceFile": "LICENSES/dawn-will-come.txt",
+      "sha256": "3a3b9881b5a3a3708e217efd73f443f6a97782d3b0d3a2086e1a00ac176e5e9f",
+      "size": 2097152
+    },
+    {
       "id": "ucity",
       "title": "µCity",
       "author": "Antonio Niño Díaz",
@@ -234,6 +278,28 @@
       "size": 32768
     },
     {
+      "id": "waternet",
+      "title": "Waternet",
+      "author": "Willems Davy",
+      "system": "gbc",
+      "year": 2022,
+      "blurb": "Connect the pipes so water reaches every house. 375 levels across rotate, slide and combined modes plus a random mode, with battery saves. Based on the Net puzzles from Simon Tatham’s collection.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/joyrider3774/waternet/blob/main/LICENSE",
+      "sourceURL": "https://github.com/joyrider3774/waternet",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/waternet.gbc",
+      "fileName": "Waternet.gbc",
+      "tags": [
+        "puzzle",
+        "pipes",
+        "colour"
+      ],
+      "cover": "covers/waternet.png",
+      "licenceFile": "LICENSES/waternet.txt",
+      "sha256": "76bfa37e0db237d5d50a3084fca9a876592aaabfd6a9533adadd2d356998423d",
+      "size": 32768
+    },
+    {
       "id": "pong-brew",
       "title": "Pong Brew",
       "author": "ZeroDayArcade",
@@ -296,6 +362,215 @@
       ],
       "sha256": "1d8b4617be75a8b7b6c5c2975ef0213ed37da669c460d967d4259b6a25d22b2e",
       "size": 10592124
+    },
+    {
+      "id": "collie-defense",
+      "title": "Collie Defense",
+      "author": "vayan",
+      "system": "gba",
+      "year": 2022,
+      "blurb": "A tower defence where a border collie protects the flock from waves of wolves. Place and upgrade towers, survive the night, keep the sheep. Made for GBA Jam 2022 and polished afterwards.",
+      "licence": "GPL-3.0 · CC BY-SA 4.0 · CC0",
+      "licenceURL": "https://github.com/vayan/collie-defense/blob/master/LICENSE-code.md",
+      "sourceURL": "https://github.com/vayan/collie-defense",
+      "downloadURL": "https://github.com/vayan/collie-defense/releases/download/v1.0.0/collie-defence-v1.0.0.gba",
+      "fileName": "Collie Defense.gba",
+      "tags": [
+        "tower defence",
+        "strategy"
+      ],
+      "cover": "covers/collie-defense.png",
+      "licenceFile": "LICENSES/collie-defense.txt",
+      "sha256": "ef3eb807ff0c083f64668157dd3f616ac4ec6396a79c3479af7702ddc43c6be4",
+      "size": 1207868
+    },
+    {
+      "id": "solar-guard",
+      "title": "Solar Guard",
+      "author": "Deft Spade",
+      "system": "gba",
+      "year": 2021,
+      "blurb": "A mission-based top-down space shooter across the solar system, built on the Butano engine for GBA Jam 2021. Fly, shoot, complete objectives, and watch the fuel gauge.",
+      "licence": "GPL-3.0 · CC BY art",
+      "licenceURL": "https://github.com/Deft-Spade/Solar-Guard/blob/main/LICENSE",
+      "sourceURL": "https://github.com/Deft-Spade/Solar-Guard",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/solar-guard.gba",
+      "fileName": "Solar Guard.gba",
+      "tags": [
+        "shooter",
+        "space"
+      ],
+      "cover": "covers/solar-guard.png",
+      "licenceFile": "LICENSES/solar-guard.txt",
+      "sha256": "cfd07990e0fa05611fb36b3230d68cea4b65ae11482e822b5b6f97a32a8b88b0",
+      "size": 4272776
+    },
+    {
+      "id": "the-purple-night",
+      "title": "The Purple Night",
+      "author": "setsquare and LostImmortal",
+      "system": "gba",
+      "year": 2021,
+      "blurb": "A platformer where your health bar is your sword: the more damage you take, the shorter and faster your blade becomes. Written in Rust with the agb library for Mini Jam 92.",
+      "licence": "MPL-2.0 · CC BY-SA 4.0",
+      "licenceURL": "https://github.com/agbrs/agb/blob/master/LICENSE",
+      "sourceURL": "https://github.com/agbrs/agb/tree/master/examples/the-purple-night",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/the-purple-night.gba",
+      "fileName": "The Purple Night.gba",
+      "tags": [
+        "platformer",
+        "action"
+      ],
+      "cover": "covers/the-purple-night.png",
+      "licenceFile": "LICENSES/the-purple-night.txt",
+      "sha256": "d2e38e75d7948d2fbf38b5c4905ce1631da07cadf88082a2a8a9b4d01017e35a",
+      "size": 6214656
+    },
+    {
+      "id": "the-hat-chooses-the-wizard",
+      "title": "The Hat Chooses the Wizard",
+      "author": "setsquare and LostImmortal",
+      "system": "gba",
+      "year": 2021,
+      "blurb": "A wizard throws his magic hat and flies to wherever it lands. Cross gaps, dodge enemies and ride the hat through a cheerful platformer made in 48 hours for GMTK Jam 2021, then improved.",
+      "licence": "MPL-2.0 · CC BY-SA 4.0",
+      "licenceURL": "https://github.com/corwinkuiper/joinedtogether/blob/master/LICENSE",
+      "sourceURL": "https://github.com/corwinkuiper/joinedtogether",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/the-hat-chooses-the-wizard.gba",
+      "fileName": "The Hat Chooses the Wizard.gba",
+      "tags": [
+        "platformer"
+      ],
+      "cover": "covers/the-hat-chooses-the-wizard.png",
+      "licenceFile": "LICENSES/the-hat-chooses-the-wizard.txt",
+      "sha256": "c417f2a110026b3553a9f0f26090b4bbbceeeac1e0c2ebb0f9d786fe2221021b",
+      "size": 1484736
+    },
+    {
+      "id": "hyperspace-roll",
+      "title": "Hyperspace Roll",
+      "author": "setsquare and LostImmortal",
+      "system": "gba",
+      "year": 2022,
+      "blurb": "A dice-rolling space roguelike in the spirit of Slay the Spire and FTL: build dice combos, upgrade your ship and beat ever tougher opponents. Made for GMTK Jam 2022.",
+      "licence": "MPL-2.0 · CC BY-SA 4.0",
+      "licenceURL": "https://github.com/agbrs/agb/blob/master/LICENSE",
+      "sourceURL": "https://github.com/agbrs/agb/tree/master/examples/hyperspace-roll",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/hyperspace-roll.gba",
+      "fileName": "Hyperspace Roll.gba",
+      "tags": [
+        "roguelike",
+        "dice",
+        "strategy"
+      ],
+      "cover": "covers/hyperspace-roll.png",
+      "licenceFile": "LICENSES/hyperspace-roll.txt",
+      "sha256": "de5a61698452d5f409970f1f5e042d0d4ace21ccc0ea7d2a770b8c311b8f3c57",
+      "size": 6948016
+    },
+    {
+      "id": "the-dungeon-puzzlers-lament",
+      "title": "The Dungeon Puzzler’s Lament",
+      "author": "setsquare and LostImmortal",
+      "system": "gba",
+      "year": 2023,
+      "blurb": "You are the dungeon designer. The hero only walks in predictable patterns, so lay out each room so that they reach the treasure. Made in 48 hours for GMTK Jam 2023.",
+      "licence": "MPL-2.0 · CC BY 4.0",
+      "licenceURL": "https://github.com/agbrs/agb/blob/master/LICENSE",
+      "sourceURL": "https://github.com/agbrs/agb/tree/master/examples/the-dungeon-puzzlers-lament",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/the-dungeon-puzzlers-lament.gba",
+      "fileName": "The Dungeon Puzzlers Lament.gba",
+      "tags": [
+        "puzzle"
+      ],
+      "cover": "covers/the-dungeon-puzzlers-lament.png",
+      "licenceFile": "LICENSES/the-dungeon-puzzlers-lament.txt",
+      "sha256": "26156cfca304e74015b8bd73737bb73272b0d63230d57901ece136794c0a8361",
+      "size": 695148
+    },
+    {
+      "id": "lane",
+      "title": "Lane",
+      "author": "setsquare",
+      "system": "gba",
+      "year": 2022,
+      "blurb": "A quick card game about pushing lanes: place, push and pick cards to line up four different cards beside the red start cards. GBA Jam 2022 entry.",
+      "licence": "MPL-2.0 · CC BY 4.0 music",
+      "licenceURL": "https://github.com/corwinkuiper/lane/blob/master/LICENSE",
+      "sourceURL": "https://github.com/corwinkuiper/lane",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/lane.gba",
+      "fileName": "Lane.gba",
+      "tags": [
+        "card game",
+        "puzzle"
+      ],
+      "cover": "covers/lane.png",
+      "licenceFile": "LICENSES/lane.txt",
+      "sha256": "aaeb8fb3429cc8818e01d51a8630388fd08cb55cb9bb8034210570302901f2b7",
+      "size": 131072
+    },
+    {
+      "id": "blob-goes-3d",
+      "title": "Blob Goes 3D",
+      "author": "MilanFIN",
+      "system": "gba",
+      "year": 2025,
+      "blurb": "A flat-shaded 3D platformer rendered in software on the GBA. Hop a blob across moving blocks and platforms, with saves between levels.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/MilanFIN/blob-goes-3d/blob/main/LICENSE",
+      "sourceURL": "https://github.com/MilanFIN/blob-goes-3d",
+      "downloadURL": "https://github.com/MilanFIN/blob-goes-3d/releases/download/v1.1/blobgoes3d.gba",
+      "fileName": "Blob Goes 3D.gba",
+      "tags": [
+        "platformer",
+        "3D"
+      ],
+      "cover": "covers/blob-goes-3d.png",
+      "licenceFile": "LICENSES/blob-goes-3d.txt",
+      "sha256": "313cbb23444ef35497b4de23a459311f732c885d392f5e465ebe1861a26746f4",
+      "size": 378752
+    },
+    {
+      "id": "nonogram-advance",
+      "title": "Nonogram Advance",
+      "author": "Emma Britton",
+      "system": "gba",
+      "year": 2025,
+      "blurb": "Picture-logic puzzles for the GBA: 108 nonograms from 6 by 6 up to 22 by 12, every one checked to have a single solution. Written in Rust with agb.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/emmabritton/gba_nonogram_advance/blob/main/LICENSE",
+      "sourceURL": "https://github.com/emmabritton/gba_nonogram_advance",
+      "downloadURL": "https://github.com/emmabritton/gba_nonogram_advance/releases/download/v0.9.5/nonogram_advance_v0.9.5_sram.gba",
+      "fileName": "Nonogram Advance.gba",
+      "tags": [
+        "puzzle",
+        "nonogram",
+        "picross"
+      ],
+      "cover": "covers/nonogram-advance.png",
+      "licenceFile": "LICENSES/nonogram-advance.txt",
+      "sha256": "e9947cf38f5b537f694ee3bd76dcc21dd6f4ed1b96bf33ae36940b9d20e1164b",
+      "size": 2531852
+    },
+    {
+      "id": "2048-advance",
+      "title": "2048 Advance",
+      "author": "Basil Termini",
+      "system": "gba",
+      "year": 2024,
+      "blurb": "A clean take on the 2048 sliding-tile puzzle for the GBA, with high scores and saving. Made for GBA Jam 2024 and placed in the public domain.",
+      "licence": "CC0 1.0",
+      "licenceURL": "https://github.com/Paperdomo101/2048-GBA/blob/main/LICENSE",
+      "sourceURL": "https://github.com/Paperdomo101/2048-GBA",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/2048-advance.gba",
+      "fileName": "2048 Advance.gba",
+      "tags": [
+        "puzzle"
+      ],
+      "cover": "covers/2048-advance.png",
+      "licenceFile": "LICENSES/2048-advance.txt",
+      "sha256": "706e37783f00a0eb48f3f2f42f9455d0766e34bc61064277127ffd2f6deb6dcf",
+      "size": 247232
     }
   ]
 }
