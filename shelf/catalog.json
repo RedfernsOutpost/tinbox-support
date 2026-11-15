@@ -1,0 +1,301 @@
+{
+  "version": 1,
+  "updated": "2026-11-15",
+  "titles": [
+    {
+      "id": "tobu-tobu-girl-deluxe",
+      "title": "Tobu Tobu Girl Deluxe",
+      "author": "Tangram Games",
+      "system": "gbc",
+      "year": 2019,
+      "blurb": "A fast arcade platformer: bounce skyward by kicking off enemies and dash through the clouds to catch your runaway cat. The colour remaster of Tangram's 2017 original, with new modes and music.",
+      "licence": "MIT · CC BY 4.0",
+      "licenceURL": "https://github.com/SimonLarsen/tobutobugirl-dx/blob/master/LICENSE",
+      "sourceURL": "https://github.com/SimonLarsen/tobutobugirl-dx",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/tobu-tobu-girl-deluxe.gb",
+      "cover": "covers/tobu-tobu-girl-deluxe.png",
+      "licenceFile": "LICENSES/tobu-tobu-girl-deluxe.txt",
+      "fileName": "Tobu Tobu Girl Deluxe.gb",
+      "tags": [
+        "platformer",
+        "arcade",
+        "colour"
+      ],
+      "sha256": "0a0e8018dbbc8d7f8cd99f05e7cdc7b4cc9e358ecfe9377ebfb2291a84c6e310",
+      "size": 262144
+    },
+    {
+      "id": "tobu-tobu-girl",
+      "title": "Tobu Tobu Girl",
+      "author": "Tangram Games",
+      "system": "gb",
+      "year": 2017,
+      "blurb": "The original monochrome Tobu Tobu Girl. Bounce off enemies and dash upward to catch your cat before the timer runs out, with a chiptune soundtrack that got the game a cartridge release.",
+      "licence": "MIT · CC BY 4.0",
+      "licenceURL": "https://github.com/SimonLarsen/tobutobugirl/blob/master/LICENSE",
+      "sourceURL": "https://github.com/SimonLarsen/tobutobugirl",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/tobu-tobu-girl.gb",
+      "cover": "covers/tobu-tobu-girl.png",
+      "licenceFile": "LICENSES/tobu-tobu-girl.txt",
+      "fileName": "Tobu Tobu Girl.gb",
+      "tags": [
+        "platformer",
+        "arcade"
+      ],
+      "sha256": "5d3871cae77db2287807e8914fd21f76203e73aa3fec20955489d45cb4571d8f",
+      "size": 262144
+    },
+    {
+      "id": "libbet",
+      "title": "Libbet and the Magic Floor",
+      "author": "Damian Yerrick",
+      "system": "gb",
+      "year": 2018,
+      "blurb": "A puzzle game on a floor of shaded tiles. Libbet rolls from tile to tile and leaves tracks behind her: cover enough of the possible moves and the exit opens. Based on Martin Korth's Magic Floor.",
+      "licence": "zlib",
+      "licenceURL": "https://github.com/pinobatch/libbet/blob/master/LICENSE",
+      "sourceURL": "https://github.com/pinobatch/libbet",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/libbet.gb",
+      "cover": "covers/libbet.png",
+      "licenceFile": "LICENSES/libbet.txt",
+      "fileName": "Libbet and the Magic Floor.gb",
+      "tags": [
+        "puzzle"
+      ],
+      "sha256": "079d161bf2bff4f3baec01339b4f6f02ff6f966c69456885a165b97aac11fa12",
+      "size": 32768
+    },
+    {
+      "id": "adjustris",
+      "title": "Adjustris",
+      "author": "Dave VanEe",
+      "system": "gb",
+      "year": 2005,
+      "blurb": "A falling-block puzzle game with a twist: a built-in editor lets you design your own piece sets and then play with them. Written in 2005 for a coding competition and released to the public domain in 2017.",
+      "licence": "CC0 1.0",
+      "licenceURL": "https://github.com/tbsp/Adjustris/blob/master/LICENSE.md",
+      "sourceURL": "https://github.com/tbsp/Adjustris",
+      "downloadURL": "https://github.com/tbsp/Adjustris/releases/download/v1.1/adjustris.gb",
+      "cover": "covers/adjustris.png",
+      "licenceFile": "LICENSES/adjustris.txt",
+      "fileName": "Adjustris.gb",
+      "tags": [
+        "puzzle",
+        "editor"
+      ],
+      "sha256": "b6c8affe6d906419cfc99ff459718f33a1868af03254a2f65cea2a9430394712",
+      "size": 32768
+    },
+    {
+      "id": "rhythm-land",
+      "title": "Rhythm Land",
+      "author": "Sinusoid Studios",
+      "system": "gb",
+      "year": 2021,
+      "blurb": "A rhythm game built from several timing minigames: hit the buttons to the beat and keep your rating up. Placed second in GB Compo 21. Code and music by martendo, art by Adrian Kwok.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/sinusoid-studios/rhythm-land/blob/master/LICENSE",
+      "sourceURL": "https://github.com/sinusoid-studios/rhythm-land",
+      "downloadURL": "https://github.com/sinusoid-studios/rhythm-land/releases/download/v1.0.1/rhythm-land.gb",
+      "cover": "covers/rhythm-land.png",
+      "licenceFile": "LICENSES/rhythm-land.txt",
+      "fileName": "Rhythm Land.gb",
+      "tags": [
+        "rhythm",
+        "minigames"
+      ],
+      "sha256": "820b4e543bc1afb80b66be81aca64f429e97c8c0f4b5377350353788381ab160",
+      "size": 131072
+    },
+    {
+      "id": "carazu",
+      "title": "Carazu",
+      "author": "Martin Holtkamp",
+      "system": "gb",
+      "year": 2016,
+      "blurb": "An assembly-coded platformer for the original Game Boy. Run and jump through tile-based levels to a chiptune soundtrack, the way a 1990 cartridge would have done it.",
+      "licence": "GPL-3.0",
+      "licenceURL": "https://github.com/mholtkamp/carazu/blob/master/LICENSE.md",
+      "sourceURL": "https://github.com/mholtkamp/carazu",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/carazu.gb",
+      "cover": "covers/carazu.png",
+      "licenceFile": "LICENSES/carazu.txt",
+      "fileName": "Carazu.gb",
+      "tags": [
+        "platformer"
+      ],
+      "sha256": "eef9dea9ecba15be7b21f3495e8c8bad937a0b2245cac09eec8baf61dfc91fb5",
+      "size": 262144
+    },
+    {
+      "id": "sushi-nights",
+      "title": "Sushi Nights",
+      "author": "Zalo, Kirblue, MaikelOrtega and sergiodeprado",
+      "system": "gb",
+      "year": 2021,
+      "blurb": "Nights are tough in Neo Sushi City. Play Hitsuji-kun, a sheep with a grappling hook, and swing between buildings to deliver sushi to the hungry before time runs out. Made for GB Compo 21 on the ZGB engine.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/Zal0/SushiNights/blob/master/LICENSE",
+      "sourceURL": "https://github.com/Zal0/SushiNights",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/sushi-nights.gb",
+      "cover": "covers/sushi-nights.png",
+      "licenceFile": "LICENSES/sushi-nights.txt",
+      "fileName": "Sushi Nights.gb",
+      "tags": [
+        "action",
+        "grappling hook"
+      ],
+      "sha256": "5b3203e60e8815acf75e25c5ae369815da047c0f46b81ad3bcc8513ce7167e25",
+      "size": 131072
+    },
+    {
+      "id": "2048-gb",
+      "title": "2048gb",
+      "author": "Sanqui",
+      "system": "gb",
+      "year": 2014,
+      "blurb": "A faithful Game Boy port of the 2048 sliding-tile number puzzle. Slide, merge and chase the 2048 tile on a four by four board.",
+      "licence": "zlib",
+      "licenceURL": "https://github.com/Sanqui/2048-gb/blob/master/LICENSE",
+      "sourceURL": "https://github.com/Sanqui/2048-gb",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/2048-gb.gb",
+      "cover": "covers/2048-gb.png",
+      "licenceFile": "LICENSES/2048-gb.txt",
+      "fileName": "2048gb.gb",
+      "tags": [
+        "puzzle"
+      ],
+      "sha256": "3ea2376b15b34bd26b10e6b31d2753bf8b086098dbdb5ee84d9c0f03d66d3d7f",
+      "size": 32768
+    },
+    {
+      "id": "ucity",
+      "title": "µCity",
+      "author": "Antonio Niño Díaz",
+      "system": "gbc",
+      "year": 2017,
+      "blurb": "A full city builder for the Game Boy Color: zone residential, commercial and industrial land, lay roads and power, fund services, survive disasters and keep up to sixteen cities in the save.",
+      "licence": "GPL-3.0 · CC BY-SA 4.0",
+      "licenceURL": "https://github.com/AntonioND/ucity/blob/master/gpl-3.0.txt",
+      "sourceURL": "https://github.com/AntonioND/ucity",
+      "downloadURL": "https://github.com/AntonioND/ucity/releases/download/v1.3/ucity.gbc",
+      "cover": "covers/ucity.png",
+      "licenceFile": "LICENSES/ucity.txt",
+      "fileName": "uCity.gbc",
+      "tags": [
+        "city builder",
+        "simulation",
+        "colour"
+      ],
+      "sha256": "9422ee2ca7b7ea1d46b58b2a429fff3f354dfd3e732dee1e7ae6220f148ce6e0",
+      "size": 131072
+    },
+    {
+      "id": "geometrix",
+      "title": "Geometrix",
+      "author": "Antonio Niño Díaz",
+      "system": "gbc",
+      "year": 2016,
+      "blurb": "A match-three puzzle game with three ways to play: clear every piece, win within a limited number of swaps, or beat the clock. Colour on Game Boy Color, four shades on the original.",
+      "licence": "GPL-3.0",
+      "licenceURL": "https://github.com/AntonioND/geometrix/blob/master/gpl-3.0.txt",
+      "sourceURL": "https://github.com/AntonioND/geometrix",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/geometrix.gbc",
+      "cover": "covers/geometrix.png",
+      "licenceFile": "LICENSES/geometrix.txt",
+      "fileName": "Geometrix.gbc",
+      "tags": [
+        "puzzle",
+        "match three",
+        "colour"
+      ],
+      "sha256": "56efdf82118e5faf22511c18dd1fc2ab8bc0c5e44cd634b8e06050ff08124586",
+      "size": 32768
+    },
+    {
+      "id": "flooder",
+      "title": "Flooder",
+      "author": "Oliver Balfour",
+      "system": "gbc",
+      "year": 2022,
+      "blurb": "A colour-flood puzzle: pick a colour, flood the board from the corner, and fill the whole grid in twenty-five moves or fewer. Plays in colour on Game Boy Color.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/Obalfour/Flooder/blob/main/LICENSE",
+      "sourceURL": "https://github.com/Obalfour/Flooder",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/flooder.gbc",
+      "cover": "covers/flooder.png",
+      "licenceFile": "LICENSES/flooder.txt",
+      "fileName": "Flooder.gbc",
+      "tags": [
+        "puzzle",
+        "colour"
+      ],
+      "sha256": "2b93dd9e623678e1c5c33b942a9a5621529d9073be854b32c9f59af8b70b5292",
+      "size": 32768
+    },
+    {
+      "id": "pong-brew",
+      "title": "Pong Brew",
+      "author": "ZeroDayArcade",
+      "system": "gba",
+      "year": 2023,
+      "blurb": "A small, readable table-tennis game for the GBA, written as a homebrew lesson: two paddles, one ball, a CPU opponent and a scoreboard. Tinbox preinstalls it so the tin is never empty.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/ZeroDayArcade/Pong-Homebrew-GBA/blob/main/LICENSE",
+      "sourceURL": "https://github.com/ZeroDayArcade/Pong-Homebrew-GBA",
+      "downloadURL": "https://raw.githubusercontent.com/RedfernsOutpost/tinbox-support/main/shelf/roms/pong-brew.gba",
+      "cover": "covers/pong-brew.png",
+      "licenceFile": "LICENSES/pong-brew.txt",
+      "fileName": "Pong Brew.gba",
+      "tags": [
+        "arcade",
+        "two paddles"
+      ],
+      "sha256": "3c850319ddef6d237756dd64b85ddf3b75bf7c096feb2408ed1b2dd0a05a0158",
+      "size": 8884
+    },
+    {
+      "id": "feline",
+      "title": "Feline",
+      "author": "Jono Shields",
+      "system": "gba",
+      "year": 2021,
+      "blurb": "A platform adventure about a black cat exploring the world, meeting its people, learning their languages and setting out to save its family. Third place in GBA Jam 2021.",
+      "licence": "MIT",
+      "licenceURL": "https://github.com/foopod/gbaGamejam2021/blob/main/LICENSE",
+      "sourceURL": "https://github.com/foopod/gbaGamejam2021",
+      "downloadURL": "https://github.com/foopod/gbaGamejam2021/releases/download/day-88/feline-88.gba",
+      "cover": "covers/feline.png",
+      "licenceFile": "LICENSES/feline.txt",
+      "fileName": "Feline.gba",
+      "tags": [
+        "platformer",
+        "adventure"
+      ],
+      "sha256": "74dbb3cbf4ac7e8b9fcae4ec653855d19c1a0a266817f9393d9bf70657694531",
+      "size": 885668
+    },
+    {
+      "id": "inheritors-of-the-oubliette",
+      "title": "Inheritors of the Oubliette",
+      "author": "Mahou Shoujo Magical Moestar and one60hp",
+      "system": "gba",
+      "year": 2021,
+      "blurb": "A first-person dungeon crawler with a full-resolution 3D engine and depth-based lighting, on a Game Boy Advance. Explore the oubliette, fight what lives there and find the way out. Made for GBA Jam 2021.",
+      "licence": "GPL-3.0",
+      "licenceURL": "https://github.com/DrLancer-X/inheritors-of-the-oubliette/blob/master/LICENSE",
+      "sourceURL": "https://github.com/DrLancer-X/inheritors-of-the-oubliette",
+      "downloadURL": "https://github.com/DrLancer-X/inheritors-of-the-oubliette/releases/download/v1.2/inheritors-of-the-oubliette.gba",
+      "cover": "covers/inheritors-of-the-oubliette.png",
+      "licenceFile": "LICENSES/inheritors-of-the-oubliette.txt",
+      "fileName": "Inheritors of the Oubliette.gba",
+      "tags": [
+        "dungeon crawler",
+        "3D",
+        "first person"
+      ],
+      "sha256": "1d8b4617be75a8b7b6c5c2975ef0213ed37da669c460d967d4259b6a25d22b2e",
+      "size": 10592124
+    }
+  ]
+}
